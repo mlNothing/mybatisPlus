@@ -1,0 +1,4 @@
+com\example\demo\config\MybatisPlusConfig.class
+com\example\demo\MybatisPlusDemo01Application.class
+com\example\demo\mapper\UserMapper.class
+com\example\demo\pojo\User.class
